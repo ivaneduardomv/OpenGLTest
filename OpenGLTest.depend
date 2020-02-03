@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1532630155 source:d:\codeblocksprojects\opengltest\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1532335044 source:d:\codeblocksprojects\rootfinder\root_finder.c
+	"Root_Finder.h"
+
+1532334816 d:\codeblocksprojects\rootfinder\root_finder.h
+	<stdio.h>
+
+1532371755 source:d:\codeblocksprojects\opengltest\root_finder.c
+	"Root_Finder.h"
+
+1532334816 d:\codeblocksprojects\opengltest\root_finder.h
+	<stdio.h>
+
+1532334816 source:d:\codeblocksprojects\opengltest\root_finder.h
+	<stdio.h>
+
+1532629951 source:d:\codeblocksprojects\opengltest\graphicscode.h
+	<gl/gl.h>
+
+1532630195 source:d:\codeblocksprojects\opengltest\graphicscode.c
+	"GraphicsCode.h"
+
+1532629951 d:\codeblocksprojects\opengltest\graphicscode.h
+	<gl/gl.h>
+
